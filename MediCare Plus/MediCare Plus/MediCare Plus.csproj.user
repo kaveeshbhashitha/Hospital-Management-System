@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\AddNew.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminScheduleController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\Doctors.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\Facilities.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\Patients.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\Payments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\Schedule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\SystemUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\UserDateControllerAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Common\Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Common\CalendarController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Common\ScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Common\UserControlarDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Patient\PatientRegistration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Patient\PatientProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\HospitalStaffLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\Receptionist\HospitalServices.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Staff\Receptionist\MedicalService.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Staff\Receptionist\Payments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Staff\Receptionist\ReceptionistDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\Receptionist\Treatments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Styles\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Access.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

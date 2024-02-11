@@ -1,0 +1,57 @@
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.csproj.AssemblyReference.cache
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Access.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.AddNew.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.AdminDashboard.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.AdminLogin.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.AdminScheduleController.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.Doctors.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.Facilities.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.Patients.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.Payments.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.Schedule.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.UserDateControllerAdmin.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Common.Calendar.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Common.CalendarController.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Common.ScheduleForm.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Common.UserControlarDays.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Patient.PatientProfile.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Patient.PatientRegistration.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Properties.Resources.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Patient.HospitalStaffLogin.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Staff.Receptionist.HospitalServices.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Staff.Receptionist.Payments.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Staff.Receptionist.ReceptionistDashboard.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Welcome.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.csproj.GenerateResource.cache
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.GeneratedMSBuildEditorConfig.editorconfig
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.AssemblyInfoInputs.cache
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.AssemblyInfo.cs
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.csproj.CoreCompileInputs.cache
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\MediCare Plus.exe
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\MediCare Plus.deps.json
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\MediCare Plus.runtimeconfig.json
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\MediCare Plus.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\MediCare Plus.pdb
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\ScottPlot.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.csproj.CopyComplete
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\refint\MediCare Plus.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.pdb
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare Plus.genruntimeconfig.cache
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\ref\MediCare Plus.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Staff.Receptionist.Treatments.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Staff.Receptionist.MedicalService.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\obj\Debug\net6.0-windows\MediCare_Plus.Admin.SystemUsers.resources
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\BEng\AD\MediCare Plus\MediCare Plus\bin\Debug\net6.0-windows\itextsharp.dll
